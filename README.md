@@ -11,9 +11,7 @@ RubricRM provides four checkpoints for evaluating text-to-image generation and i
 | Text-to-image generation | [![RubricRM-Gen-4B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Gen--4B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Gen-4B) | [![RubricRM-Gen-9B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Gen--9B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Gen-9B) |
 | Image editing | [![RubricRM-Edit-4B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Edit--4B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Edit-4B) | [![RubricRM-Edit-9B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Edit--9B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Edit-9B) |
 
-The training data used by RubricRM are available on Hugging Face:
-
-[![RubricRM-Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Data-FFD21E)](https://huggingface.co/datasets/skylenage-ai/RubricRM-Data)
+The training data used by RubricRM are available at [![RubricRM-Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Data-FFD21E)](https://huggingface.co/datasets/skylenage-ai/RubricRM-Data)
 
 <p align="center">
   <img src="assets/main_figure.png" width="100%">
