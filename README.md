@@ -6,6 +6,19 @@ Official repository for the paper *RubricRM: Generative Reward Modeling via Dyna
   <img src="assets/main_figure.png" width="100%">
 </p>
 
+## Models and Data
+
+RubricRM provides four SkyJM checkpoints for evaluating text-to-image generation and image editing at two model scales.
+
+| Task | 4B | 9B |
+| --- | --- | --- |
+| Text-to-image generation | [![SkyJM-Gen-4B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SkyJM--Gen--4B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Gen-4B) | [![SkyJM-Gen-9B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SkyJM--Gen--9B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Gen-9B) |
+| Image editing | [![SkyJM-Edit-4B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SkyJM--Edit--4B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Edit-4B) | [![SkyJM-Edit-9B](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SkyJM--Edit--9B-FFD21E)](https://huggingface.co/skylenage-ai/SkyJM-Edit-9B) |
+
+The training data used by RubricRM are available on Hugging Face:
+
+[![RubricRM-Data](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-RubricRM--Data-FFD21E)](https://huggingface.co/datasets/skylenage-ai/RubricRM-Data)
+
 ## Quick Start
 
 ### Installation
