@@ -63,15 +63,14 @@ bash train.sh
 
 ## Citation
 
-If you find RubricRM useful in your research, please cite our paper:
-
 ```bibtex
-@article{kan2026rubricrm,
-  title   = {RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing},
-  author  = {Kan, Zijian and Wang, Wei and Luo, Long and Zhao, Bing and Ren, Xuan and Qiao, Weixu and Li, Wenbo and Wei, Hu and Qu, Lin},
-  journal = {arXiv preprint arXiv:2608.26956},
-  year    = {2026},
-  doi     = {10.48550/arXiv.2608.26956},
-  url     = {https://arxiv.org/abs/2608.26956}
+@misc{kan2026rubricrmgenerativerewardmodeling,
+      title={RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing}, 
+      author={Zijian Kan and Wei Wang and Long Luo and Bing Zhao and Xuan Ren and Weixu Qiao and Wenbo Li and Hu Wei and Lin Qu},
+      year={2026},
+      eprint={2608.26956},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2608.26956}, 
 }
 ```
