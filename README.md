@@ -1,6 +1,10 @@
 # RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing
 
-Official repository for the paper *RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing*. 
+Official repository for the paper [*RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing*](https://arxiv.org/abs/2608.26956).
+
+[![arXiv](https://img.shields.io/badge/arXiv-2608.26956-b31b1b.svg)](https://arxiv.org/abs/2608.26956)
+
+**Accepted to EMNLP 2026 Main Conference.**
 
 ## Models and Data
 
@@ -59,4 +63,19 @@ python inference/grade_reward_bench.py output/editreward_result.jsonl
 ```bash
 cd verl
 bash train.sh
+```
+
+## Citation
+
+If you find RubricRM useful in your research, please cite our paper:
+
+```bibtex
+@article{kan2026rubricrm,
+  title   = {RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing},
+  author  = {Kan, Zijian and Wang, Wei and Luo, Long and Zhao, Bing and Ren, Xuan and Qiao, Weixu and Li, Wenbo and Wei, Hu and Qu, Lin},
+  journal = {arXiv preprint arXiv:2608.26956},
+  year    = {2026},
+  doi     = {10.48550/arXiv.2608.26956},
+  url     = {https://arxiv.org/abs/2608.26956}
+}
 ```
