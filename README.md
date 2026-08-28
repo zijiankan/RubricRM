@@ -1,10 +1,6 @@
-# RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing
-
 Official repository for the paper [*RubricRM: Generative Reward Modeling via Dynamic Rubrics for Image Generation and Editing*](https://arxiv.org/abs/2608.26956).
 
 [![arXiv](https://img.shields.io/badge/arXiv-2608.26956-b31b1b.svg)](https://arxiv.org/abs/2608.26956)
-
-**Accepted to EMNLP 2026 Main Conference.**
 
 ## Models and Data
 
